@@ -4,13 +4,14 @@ body{
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     font-size: 15px;
+    text-align: center;
     
 }
 .container{
+    display: inline-block;
     position: relative;
+    box-shadow: 2px 2px lightslategray;
     top: 150px;
-    left: 500px;
-    text-align: center;
     width: 200px;
     max-width: 250px;
     height: 350px;
@@ -31,4 +32,5 @@ body{
 .annotation{
     opacity: 50%;
     font-size: 12px;
+    margin: 10px;
 }
