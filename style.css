@@ -15,7 +15,7 @@ body{
     width: 200px;
     max-width: 250px;
     height: 350px;
-    border: solid 1px white;
+    border: solid 2px lightblue;
     border-radius: 28px;
     background: white;
 }
@@ -23,6 +23,7 @@ body{
     margin: 5px;
     width: 190px;
     height: 190px;
+    border: 1x solid lightblue;
     border-radius: 28px;
 }
 .bold-text{
