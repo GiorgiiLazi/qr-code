@@ -26,6 +26,9 @@ body{
     border: 1x solid lightblue;
     border-radius: 28px;
 }
+hr{
+    border-bottom: 3px solid lightblue;
+}
 .bold-text{
     font-weight: bold;
     margin: 10px;
